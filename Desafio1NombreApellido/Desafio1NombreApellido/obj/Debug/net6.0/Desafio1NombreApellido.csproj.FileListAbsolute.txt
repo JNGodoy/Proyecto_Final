@@ -1,0 +1,15 @@
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0\Desafio1NombreApellido.exe
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0\Desafio1NombreApellido.deps.json
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0\Desafio1NombreApellido.runtimeconfig.json
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0\Desafio1NombreApellido.dll
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0\Desafio1NombreApellido.pdb
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.csproj.AssemblyReference.cache
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.AssemblyInfoInputs.cache
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.AssemblyInfo.cs
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.csproj.CoreCompileInputs.cache
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.dll
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\refint\Desafio1NombreApellido.dll
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.pdb
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\Desafio1NombreApellido.genruntimeconfig.cache
+C:\Users\godoyjavier\Documents\Coderhouse\C#\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0\ref\Desafio1NombreApellido.dll
