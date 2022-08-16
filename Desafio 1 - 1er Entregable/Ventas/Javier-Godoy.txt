@@ -1,0 +1,50 @@
+namespace Ventas
+{
+    internal class Producto
+    {
+        private int Id;
+        private string Descripcion;
+        private double Costo;
+        private double PrecioVenta;
+        private int Stock;
+        private int IdUsuario;
+    }
+}
+
+//------------------------------------------------
+namespace Ventas
+{
+    internal class ProductoVendido : Producto
+    {
+        private int Id;
+        private int IdProducto;
+        private string Stock;
+        private int IdVenta;
+    }
+}
+
+//------------------------------------------------
+
+namespace Ventas
+{
+    internal class Usuario
+    {
+        private int Id;
+        private string Nombre;
+        private string Apellido;
+        private string NombreUsuario;
+        private string Contraseña;
+        private string Mail;
+    }
+}
+
+//------------------------------------------------
+
+namespace Ventas
+{
+    internal class Venta : ProductoVendido
+    {
+        private int Id;
+        private string Comentarios;
+    }
+}
