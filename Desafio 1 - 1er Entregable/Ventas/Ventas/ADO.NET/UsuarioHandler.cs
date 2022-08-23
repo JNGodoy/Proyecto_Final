@@ -57,13 +57,17 @@ namespace Ventas.ADO.NET
                         // Me aseguro que haya filas que leer
                         if (dataReader.HasRows)
                         {
-                            if (Usuario == dataReader["NombreUsuario"].ToString() && Clave == dataReader["Contraseña"].ToString())
+                            while (dataReader.Read())
                             {
-                                resultado = "OK";
-                            }
-                            else
-                            {
-                                resultado = "Error";
+                                if (Usuario == dataReader["NombreUsuario"].ToString() && Clave == dataReader["Contraseña"].ToString())
+                                {
+                                    resultado = "OK";
+                                }
+                                else
+                                {
+                                    resultado = "Error";
+                                }
+
                             }
 
                         }
@@ -72,8 +76,6 @@ namespace Ventas.ADO.NET
 
                 }
             }
-                 
-
             return resultado;
         }
     }

@@ -18,11 +18,9 @@ namespace Ventas
 
             UsuarioHandler usuarioHandler = new UsuarioHandler();
 
-
             if (usuarioHandler.Login(Usuario, Clave) == "OK")
             {
-                Console.WriteLine("Usuario correcto \n Bienvenido");
-            
+                Console.WriteLine("Usuario correcto \nBienvenido");            
             }
             else 
             {
@@ -32,6 +30,13 @@ namespace Ventas
 
             ProductoHandler productoHandler = new ProductoHandler();
             productoHandler.GetProductos();
+
+            Console.WriteLine("Los productos son:");
+            foreach (var product in productoHandler.GetTodasLasDescripcionesConDataReader())
+            {
+              
+                Console.WriteLine(product);
+            }
 
             ProductoVendidoHandler productoVendidoHandler = new ProductoVendidoHandler();
             productoVendidoHandler.GetProductosVendidos();
